@@ -38,12 +38,4 @@
         android:layout_centerHorizontal="true"
         android:src="@drawable/logo" />
 
-    <linearLayout
-        android:layout_width="match_parent"
-        android:layout_height="57dp"
-        android:orientation="horizontal"
-        android:weightSum="1">
-
-    </linearLayout>
-
 </LinearLayout>
