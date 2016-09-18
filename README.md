@@ -16,7 +16,7 @@ KESALAHAN:
 
 
 ###B. (LINK DOWNLOAD)
-<p>https://drive.google.com/drive/u/1/my-drive</p>
+<p>https://drive.google.com/drive/u/1/folders/0B9ji90cfjga-flgtMm0yN1lmX01QQ3U0ZFlDMEVra2kxTDRETFA3UUFQc0l2UzdfWUVqT0k</p>
 
 ###C. (SCREENSHOT)
 ![Screenshot 1] (https://postimg.org/image/82xkhilz7/)
